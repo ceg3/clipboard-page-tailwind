@@ -2,17 +2,12 @@
 
 This project is from the Brad Traversy Tailwind CSS course on Udemy.  This is an exercise in using Tailwind CSS to style a static web page.  There is no JS to implement functionality.  The project uses the following Tailwind CSS features:
 
-```
+
 1.  There are fonts add in tailwind.config.js.
-```
 
-```
 2.  Screen sizes are modified in tailwind.config.js 
-```
 
-```
 3.  Custom CSS is defined in input.css to clean up some CSS in the index.html file.
-```
 
 
 ## Usage
